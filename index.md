@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## 국민대 정보보호연구실 (KMU Information Security Lab.)
+
+국민대 정보보호연구실 홈페이지에 오신걸 환영합니다. 
+
+정보보호연구실은 2010년 개설되었으며, 윤명근 교수님과 대학원생, 학부연구생들이 연구에 참여하고 있습니다.
+
+컴퓨터과학을 기반으로 하는 사이버보안, 네트워크보안, 데이터분석, 인공지능 보안, 핀테크 등 다양한 분야를 연구하는 곳입니다.
 
 You can use the [editor on GitHub](https://github.com/mkyoon/mkyoon.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
